@@ -109,8 +109,6 @@ A concise summary (2-3 paragraphs) of what the proposal is about:
 | USDT (TRC-20) | `TXExampleTronWallet123456` |
 | Bank Transfer (Currency) | OpenGov Africa | Bank | Account Number |
 
-- **In-Kind Donations:** Describe process for contributing goods or services  
-
 # In-Kind Donations to OpenGov Africa
 
 People can give **in-kind donations** to OpenGov Africa by contributing goods, services, or expertise instead of money. These donations help the organization function and scale without directly using financial resources.
