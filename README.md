@@ -69,9 +69,10 @@ We encourage everyone to share these official links/wallets when asking for supp
 | Channel | Address / Link |
 |--------|----------------|
 | **GitHub Sponsors** | [https://github.com/sponsors/OpenGovAfrica](https://github.com/sponsors/OpenGovAfrica) |
-| **BTC Wallet** | `bc1qexamplebtcaddresshere123456` |
-| **ETH Wallet** | `0xExampleEthereumWallet123456789` |
-| **USDT (TRC-20)** | `TXExampleTronWallet123456` |
+| **BTC Wallet** | `bc1qfuvftx2w7rxmkfq9hvmfhks9usk904qvxg79qa` |
+| **ETH Wallet** | `0xe3280903DA03d075449A54d765ccdf3Ce78Bc6bC` |
+| **USDT (TRC-20)** | `TLnddT1PVRMcbMrY6sWBKSGRxdTJEA9Zti` |
+| **BNB (BNB Smart Chain)** | `0xe3280903DA03d075449A54d765ccdf3Ce78Bc6bC` |
 | **Bank Transfer (Currency)** | OpenGov Africa | Bank | Account No |
 
 > Note: always confirm current wallet/account details in `funds-tracker.md` before sharing externally.
